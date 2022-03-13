@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/client_demoMusicPlayer'; //EDIT WITH YOUR DOMAIN
+$config['base_url'] = 'http://localhost/boxmusic_w'; //EDIT WITH YOUR DOMAIN
 
 /*
 |--------------------------------------------------------------------------
